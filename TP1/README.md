@@ -7,8 +7,6 @@ Este es un programa que simula la población de liebres y zorros en un terreno, 
 - Python 3.x
 - matplotlib
 - plotly
-- pandas
-- prettytable
 
 ### Instrucciones de uso
 
