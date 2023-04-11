@@ -38,4 +38,49 @@ Después de ingresar los valores, el programa generará tres gráficos:
 - Una gráfica de la población de liebres y zorros en función del tiempo
 - Un diagrama de fase que muestra la población de zorros en función de la población de liebres.
 
-# Imagenes de ejemplos
+# Prueba - 1
+### Comenzamos ingresando los datos para realizar la primer prueba
+![Comienzo de la primer prueba](https://github.com/bthecs/Modelo_y_Simulacion/blob/main/TP1/imagenes/datos1.png)
+
+### Luego de ingresar los datos necesarios para el modelado nos arrojara los siguientes graficos
+
+#### Tabla de Zorros y Liebres por semana
+![Comienzo de la primer prueba](https://github.com/bthecs/Modelo_y_Simulacion/blob/main/TP1/imagenes/tabla1.png)
+
+#### Grafico de poblacion de liebres y zorros:
+![Comienzo de la primer prueba](https://github.com/bthecs/Modelo_y_Simulacion/blob/main/TP1/imagenes/poblacion-ejemplo1.png)
+
+#### Diagrama de Fase de ambas poblacion:
+![Comienzo de la primer prueba](https://github.com/bthecs/Modelo_y_Simulacion/blob/main/TP1/imagenes/fase1.png)
+
+# Prueba - 2
+
+### Comenzamos ingresando los datos para realizar la segunda prueba
+![Comienzo de la primer prueba](https://github.com/bthecs/Modelo_y_Simulacion/blob/main/TP1/imagenes/datos2.png)
+
+### Luego de ingresar los datos necesarios para el modelado nos arrojara los siguientes graficos
+
+#### Tabla de Zorros y Liebres por semana
+![Comienzo de la primer prueba](https://github.com/bthecs/Modelo_y_Simulacion/blob/main/TP1/imagenes/tabla2.png)
+
+#### Grafico de poblacion de liebres y zorros:
+![Comienzo de la primer prueba](https://github.com/bthecs/Modelo_y_Simulacion/blob/main/TP1/imagenes/poblacion-ejemplo2.png)
+
+#### Diagrama de Fase de ambas poblacion:
+![Comienzo de la primer prueba](https://github.com/bthecs/Modelo_y_Simulacion/blob/main/TP1/imagenes/fase2.png)
+
+# Prueba - 3
+
+### Comenzamos ingresando los datos para realizar la primer prueba
+![Comienzo de la primer prueba](https://github.com/bthecs/Modelo_y_Simulacion/blob/main/TP1/imagenes/datos3.png)
+
+### Luego de ingresar los datos necesarios para el modelado nos arrojara los siguientes graficos
+
+#### Tabla de Zorros y Liebres por semana
+![Comienzo de la primer prueba](https://github.com/bthecs/Modelo_y_Simulacion/blob/main/TP1/imagenes/tabla3.png)
+
+#### Grafico de poblacion de liebres y zorros:
+![Comienzo de la primer prueba](https://github.com/bthecs/Modelo_y_Simulacion/blob/main/TP1/imagenes/poblacion-ejemplo3.png)
+
+#### Diagrama de Fase de ambas poblacion:
+![Comienzo de la primer prueba](https://github.com/bthecs/Modelo_y_Simulacion/blob/main/TP1/imagenes/fase3.png)
