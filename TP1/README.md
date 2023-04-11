@@ -38,3 +38,4 @@ Después de ingresar los valores, el programa generará tres gráficos:
 - Una gráfica de la población de liebres y zorros en función del tiempo
 - Un diagrama de fase que muestra la población de zorros en función de la población de liebres.
 
+# Imagenes de ejemplos
